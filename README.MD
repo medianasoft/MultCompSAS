@@ -6,9 +6,11 @@ A collection of SAS macros to support a wide variety of popular multiple testing
 
 * ParProc macro computes adjusted p-values for parametric procedures from the Dunnett family (single-step and step-down Dunnett procedures) in one-sided hypothesis testing problems with a balanced one-way layout and equally weighted null hypotheses. 
 
-* PvalCI macro computes simultaneous CIs for popular nonparametric procedures (Bonferroni, Holm, fixed-sequence, and fallback procedures) in multiplicity problems with equally or unequally weighted null hypotheses.
+* PvalCI macro computes simultaneous confidence intervals for popular nonparametric procedures (Bonferroni, Holm, fixed-sequence, and fallback procedures) in multiplicity problems with equally or unequally weighted null hypotheses.
 
-* ParCI macro computes simultaneous CIs for parametric procedures from the Dunnett family (single-step and step-down Dunnett procedures) in one-sided hypothesis testing problems with a balanced one-way layout and equally weighted null hypotheses.
+* ParCI macro computes simultaneous confidence intervals for parametric procedures from the Dunnett family (single-step and step-down Dunnett procedures) in one-sided hypothesis testing problems with a balanced one-way layout and equally weighted null hypotheses.
+
+* TreeGate macro computes adjusted p-values and supports simulation-based power calculations for tree-gatekeeping procedures based on Bonferroni, Holm, Hochberg and Hommel procedures. A detailed user manual is provided.
 
 Examples of SAS programs for computing adjusted p-values and confidence intervals can be found in Dmitrienko and D'Agostino (2013, Section 11).
 

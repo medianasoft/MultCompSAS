@@ -14,6 +14,15 @@ A collection of SAS macros to support a wide variety of popular multiple testing
 
 Examples of SAS programs for computing adjusted p-values and confidence intervals can be found in Dmitrienko and D'Agostino (2013, Section 11).
 
+## Code for online training courses
+
+The R and SAS code used in the online training courses:
+
+* Key Multiplicity Issues in Clinical Trials (Part I).
+* Key Multiplicity Issues in Clinical Trials (Part II).
+
+The courses are available on [Mediana's YouTube channel](https://www.youtube.com/channel/UCAQUAsQxxnzje4rEdJ4870Q). 
+
 ## References
 
 * Alosh, M., Bretz, F., Huque, M. Advanced multiplicity adjustment methods in clinical trials. Statistics in Medicine. 33:693-713, 2014.
